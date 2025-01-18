@@ -1,0 +1,15 @@
+---
+name: "jellyfin-plugin-autosyncsubtitles"
+guid: "bc4aad2e-d3d0-4725-a5e2-fd07949e5b42"
+version: "5" # Please increment with each pull request
+jellyfin_version: "10.5.0" # The earliest binary-compatible version
+owner: "jellyfin"
+nicename: "Autosync Subtitles"
+description: "Automatically sync subtitle files with the video content"
+overview: "Automatically sync subtitle files with the video content"
+category: "Metadata"
+artifacts:
+  - "Jellyfin.Plugin.AutosyncSubtitles.dll"
+build_type: "dotnet"
+dotnet_configuration: "Release"
+dotnet_framework: "netstandard2.1"
