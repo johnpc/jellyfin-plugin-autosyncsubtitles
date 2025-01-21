@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using Jellyfin.Plugin.AutoSyncSubtitles.Configuration;
-using MediaBrowser.Common.Configuration;
 using MediaBrowser.Common.Plugins;
 using MediaBrowser.Controller;
 using MediaBrowser.Model.Plugins;
 using MediaBrowser.Model.Serialization;
 using MediaBrowser.Controller.Library;
 using Microsoft.Extensions.Logging;
-using Jellyfin.Plugin.AutoSyncSubtitles;
 
 namespace Jellyfin.Plugin.AutoSyncSubtitles
 {

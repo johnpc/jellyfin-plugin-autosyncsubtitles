@@ -56,7 +56,7 @@ There you can add this repository as a plugin source:
 
 ```bash
 Name: @johnpc (AutosyncSubtitles)
-Repo url: https://raw.githubusercontent.com/johnpc/JellyfinPluginManifest/1d5b3f4a6298435d8c7ad56b421a246194adc096/manifest.json
+Repo url: https://raw.githubusercontent.com/johnpc/JellyfinPluginManifest/f754e9e88610a7d7fbd480af08916fad499e1060/manifest.json
 ```
 
 Then find, go back to Plugins > Catelog and you'll see Autosync Subtitles there. Click it, choose install, and restart your jellyfin server!
